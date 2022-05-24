@@ -47,6 +47,7 @@ int main(int argc, char** argv)
 
     if(argc <= 1) {
         printf("ERROR: Please specify an input file. Stupid.\n");
+        return -1;
     }
 
     strcpy(filename, argv[1]);
