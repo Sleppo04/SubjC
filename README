@@ -3,9 +3,14 @@ Subjective-C compiler
 What is this?
  This is a "compiler". It comments on your code - subjectively. (Or as subjectively as a computer is able to.)
  It gives useless feedback and annoys you.
+
 WHY is this?
  I created this after making this (https://www.reddit.com/r/ProgrammerHumor/comments/uwxi9l/subjectivec/) meme for reddit.
  There is no other reason for this thing to exist.
+
+Can I compile this myself?
+ Yes, you'll actually have to. For Windows, there is a "make.bat" included; however you are still gonna need to have gcc in your path.
+ In theory, you should be able to give the main.c to pretty much any standard C99-compiler and it should work.
 
 For licensing (why would you?), see the LICENSE.
 
