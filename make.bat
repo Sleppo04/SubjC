@@ -1,0 +1,1 @@
+gcc -o subjc.exe main.c
