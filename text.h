@@ -21,7 +21,12 @@ char* lineErrors[] = {
     "Hm. There's nothing wrong with thaaaAAAAAA MAKE IT STOP!\n"
     "OOF.\n",
     "You know, sometimes I'd rather work in the Rainbow Factory than for you.\n",
-    "C0815: User is too incompetent.\n"
+    "C0815: User is too incompetent.\n",
+    "My grandma runs faster than this will.\n",
+    "Why are you even trying? Just give up. You'll never be a programmer.\n",
+    "Now that's just garbage.\n",
+    "...\n",
+    "...huh?\n"
 };
 
 char* finalErrors[] = {
